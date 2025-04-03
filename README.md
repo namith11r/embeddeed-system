@@ -1,4 +1,4 @@
-# embeddeed-system
+# embeddeed-system (IOT based flood monitoring system)
 iot based flood monitoring system
 Introduction to IoT-Based Flood and Weather Monitoring System 
 Floods rank among the most devastating natural disasters, accounting for nearly 40% of all natural catastrophes worldwide according to the World Health Organization. The increasing frequency and intensity of flood events due to climate change have created an urgent need for reliable, real-time monitoring systems. Traditional flood detection methods relying on manual observations and standalone weather stations prove inadequate due to their delayed response times and limited coverage. This project presents an innovative IoT-based solution that integrates flood detection with comprehensive weather monitoring to provide early warnings and potentially save lives.
